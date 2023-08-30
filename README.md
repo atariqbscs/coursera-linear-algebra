@@ -3,7 +3,6 @@ This repository contains the code for the programming tasks of the Linear Algebr
 
 ## Linear Algebra ([link](https://www.coursera.org/learn/linear-algebra-machine-learning))
 
-* [Identifying Special Matrices]
-* [Gram-Schmidt Process]
-* [Reflecting Bear]
-* [PageRank]
+* [Identifying Special Matrices](IdentifyingSpecialMatrices.ipynb)
+* [Gram-Schmidt Process](GramSchmidtProcess.ipynb)
+
